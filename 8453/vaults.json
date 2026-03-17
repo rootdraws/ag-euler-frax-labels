@@ -1,33 +1,8 @@
 {
   "0x42BA0a943EDcc846333642d62F500894b199A798": {
     "name": "frxUSD Lending",
-    "description": "Lend frxUSD to earn yield from FX stablecoin LP borrowers.",
+    "description": "Lend frxUSD to earn yield from BRZ collateral borrowers.",
     "entity": "frax"
-  },
-  "0xB5587B4BE26608c7a6E6081B50C43AEBbA09E187": {
-    "name": "frxUSD/BRZ ICHI LP",
-    "description": "Collateral vault for single-sided frxUSD ICHI vault shares (frxUSD/BRZ pool on Hydrex).",
-    "entity": "ichi"
-  },
-  "0xd8277Cbb6576085C192b9F920c5447aa5624a84B": {
-    "name": "tGBP/frxUSD ICHI LP",
-    "description": "Collateral vault for single-sided frxUSD ICHI vault shares (tGBP/frxUSD pool on Hydrex).",
-    "entity": "ichi"
-  },
-  "0x417E102f1d2BF2E52d0599Da14Fb79dDb4B0b89F": {
-    "name": "USDC/frxUSD ICHI LP",
-    "description": "Collateral vault for single-sided frxUSD ICHI vault shares (USDC/frxUSD pool on Hydrex).",
-    "entity": "ichi"
-  },
-  "0x3371667cB5f6676fa14d95c3839da77705E46A39": {
-    "name": "IDRX/frxUSD ICHI LP",
-    "description": "Collateral vault for single-sided frxUSD ICHI vault shares (IDRX/frxUSD pool on Hydrex).",
-    "entity": "ichi"
-  },
-  "0x764Fb38Fe7519d2544BACBc8A495Cf64c0505b44": {
-    "name": "KRWQ/frxUSD ICHI LP",
-    "description": "Collateral vault for single-sided frxUSD ICHI vault shares (KRWQ/frxUSD pool on Hydrex).",
-    "entity": "ichi"
   },
   "0x92f8b6bfC276E9A38545bE6517d3295593060D00": {
     "name": "BRZ Token",
