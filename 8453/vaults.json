@@ -28,5 +28,10 @@
     "name": "KRWQ/frxUSD ICHI LP",
     "description": "Collateral vault for single-sided frxUSD ICHI vault shares (KRWQ/frxUSD pool on Hydrex).",
     "entity": "ichi"
+  },
+  "0x92f8b6bfC276E9A38545bE6517d3295593060D00": {
+    "name": "BRZ Token",
+    "description": "Collateral vault for direct BRZ (Brazilian Digital Real) token deposits. Priced via Chainlink BRZ/USD feed.",
+    "entity": "frax"
   }
 }
